@@ -17,7 +17,7 @@ Base de vendas fictícia (Superstore) obtida no Kaggle.
 * GitHub
 
 ## Estrutura do Projeto
-
+```
 projeto-sql-vendas/
 │
 ├── dataset/
@@ -28,7 +28,7 @@ projeto-sql-vendas/
 │ └── perguntas_negocio.sql
 │
 ├── README.md
-
+```
 Cada arquivo SQL está comentado e pode ser executado diretamente no PostgreSQL.
 
 ## Perguntas de Negócio Respondidas
